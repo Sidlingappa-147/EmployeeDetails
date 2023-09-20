@@ -1,9 +1,6 @@
-# Ignore compiled files
 *.o
 *.out
 
-# Ignore log files
 *.log
 
-# Ignore directories
 node_modules/
